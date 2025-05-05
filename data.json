@@ -1,11 +1,27 @@
 {
   "question": [
     "What is the capital of France?",
-    "Which planet is known as the Red Planet?"
+    "Which language is primarily used for web development?",
+    "Who wrote the play 'Romeo and Juliet'?",
+    "What is the boiling point of water in Celsius?",
+    "Which planet is known as the Red Planet?",
+    "What is the largest mammal in the world?",
+    "Which gas do plants absorb from the atmosphere?",
+    "Who painted the Mona Lisa?",
+    "What is the chemical symbol for Gold?",
+    "Which continent is the Sahara Desert located in?"
   ],
   "options": [
     ["Paris", "London", "Berlin", "Madrid"],
-    ["Earth", "Mars", "Jupiter", "Saturn"]
+    ["Python", "HTML", "C++", "Java"],
+    ["William Shakespeare", "Leo Tolstoy", "Mark Twain", "Charles Dickens"],
+    ["90°C", "100°C", "110°C", "120°C"],
+    ["Earth", "Mars", "Jupiter", "Venus"],
+    ["Blue Whale", "Elephant", "Giraffe", "Hippopotamus"],
+    ["Oxygen", "Carbon Dioxide", "Hydrogen", "Nitrogen"],
+    ["Leonardo da Vinci", "Pablo Picasso", "Vincent Van Gogh", "Michelangelo"],
+    ["Au", "Ag", "Pb", "Fe"],
+    ["Asia", "Africa", "Australia", "Europe"]
   ],
-  "answer": [0, 1]
+  "answer": [0, 1, 0, 1, 1, 0, 1, 0, 0, 1]
 }
