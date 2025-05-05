@@ -1,0 +1,28 @@
+{
+    "question": [
+      "What is the capital of France?",
+      "Which planet is known as the Red Planet?",
+      "Who wrote 'Romeo and Juliet'?",
+      "What is the largest ocean on Earth?",
+      "Which language is primarily used for Android app development?",
+      "What is the chemical symbol for Gold?",
+      "Who painted the Mona Lisa?",
+      "What is the tallest mountain in the world?",
+      "Which element has the atomic number 1?",
+      "What is the hardest natural substance on Earth?"
+    ],
+    "options": [
+      ["Berlin", "Madrid", "Paris", "Rome"],
+      ["Earth", "Mars", "Jupiter", "Venus"],
+      ["Charles Dickens", "J.K. Rowling", "William Shakespeare", "Mark Twain"],
+      ["Atlantic", "Indian", "Pacific", "Arctic"],
+      ["Java", "Python", "Swift", "C#"],
+      ["Au", "Ag", "Fe", "Gd"],
+      ["Vincent Van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+      ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+      ["Hydrogen", "Helium", "Oxygen", "Carbon"],
+      ["Diamond", "Graphite", "Quartz", "Topaz"]
+    ],
+    "answer": [2, 1, 2, 2, 0, 0, 1, 2, 0, 0]
+  }
+  
