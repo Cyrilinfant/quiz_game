@@ -44,7 +44,8 @@ if st.session_state.show_result:
         st.session_state.correct = 0
         st.session_state.selected = -1
         st.session_state.show_result = False
-        st.experimental_rerun()
+        st.rerun()
+
 else:
     # Display current question
     st.markdown(f'<p style="font-size: 24px; font-weight: 600; color: #333;">{questions[st.session_state.q_no]}</p>', unsafe_allow_html=True)
@@ -69,4 +70,4 @@ else:
             st.session_state.correct += 1
         st.session_state.q_no += 1
         st.session_state.selected = -1  # Reset for next question
-        st.experimental_rerun()
+        st.rerun()
